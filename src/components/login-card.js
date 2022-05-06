@@ -8,7 +8,7 @@ function LoginCard() {
                 <Card.Header><h3>Login</h3></Card.Header>
                 <Card.Body>
                     <Form>
-                        <Form.Group className="mb-3" controlId="formBasicEmail">
+                        <Form.Group className="mb-3" controlId="formBasicUsername">
                             <Form.Label>Username</Form.Label>
                             <Form.Control type="username" placeholder="Username" />
                         </Form.Group>
